@@ -1,0 +1,20 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.first-div {
+    color: brown;
+    /*border-bottom: 2px solid grey;*/
+    padding: 20px 10px 5px 25px;
+    margin: 10px 0px;
+}
+.second-div {
+    color: cornflowerblue;
+    margin: 20px 0px;
+}
+.third-div {
+    border: 1px solid sandybrown;
+    padding: 0px 15px;
+    color: darkolivegreen;
+}
